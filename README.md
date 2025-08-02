@@ -1,96 +1,60 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# When Water wins over rocks 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: ctrl+chaya
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Noel Biju - MBCCET
+- Member 2: Shaun David Prince - MBCCET
 
 ### Project Description
-[2-3 lines about what your project does]
+An ml project to calculate the total no. of drops of water it takes to make a hole in a rock.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Are you a deep thinking peeps like us who think about how many drops of water and how much time will it take to make a hole in a rock with dripping.
+It's so frustrating right?
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+That's why we created an ml project that calcukates the time and no. of drops taken to make a hole in a rock based of its dimensions and materials.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- Python
+- Typescript 
+- Skcit learn
+- v0 dev, chatgpt, bolt ai
 
 ### Implementation
-For Software:
+For Software: v0 dev and bolt ai
 # Installation
-[commands]
+skcit learn
 
 # Run
-[commands]
+python main.py
 
 ### Project Documentation
-For Software:
+For Software: The project works by calculating the dimensions and considering the material of the rock to get the no. of drops of water and time.
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
+https://drive.google.com/drive/folders/1S7aTUsrwBAMt_hDzCLberm7RhaSDgurY?usp=sharing
+Shows the ui , the process and the output accuracy.
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://drive.google.com/drive/folders/1S7aTUsrwBAMt_hDzCLberm7RhaSDgurY?usp=sharing
+Shows the running process and how to use this webapp
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Shaun & Noel: Worked together in building this and sharing suggestions in making it work.
+ 
+
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
